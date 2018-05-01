@@ -1,0 +1,34 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+  padding:0;
+  background-color: black;
+}
+header {
+  background-color: silver;
+  padding: 2%;
+  margin: 1%;
+  text-align: center;
+}
+h3{
+  margin: 1%;
+  padding: 1%;
+  text-align: center;
+  color: white;
+}
+h4{
+  color: white;
+}
+button {
+  padding: 1%;
+  background-color: purple;
+  border-color: white;
+  font-weight: bold;
+}
+tweetButton {
+  text-align: center;
+}
